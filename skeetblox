@@ -1,7 +1,7 @@
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/FEARMY6LOCK/FakeMacroNotif/main/soul"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "[Works on other games too]";
+Description = "[Works on almost all games]";
 Title = "skeetblox Fake Macro";
 Duration = 15;
 });
