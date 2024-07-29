@@ -1,0 +1,10 @@
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/FEARMY6LOCK/FakeMacroNotif/main/soul"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "[Works on other games too]";
+Title = "skeetblox Fake Macro";
+Duration = 15;
+});
+getgenv().Speed = true
+getgenv().FakeMacro = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FEARMY6LOCK/fakemacro/main/skeetblox"))()
